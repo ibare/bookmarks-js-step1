@@ -1,0 +1,14 @@
+### 
+GET http://localhost:8080/api/bookmarks HTTP/1.1
+Accept: application/json
+
+
+### 
+GET http://localhost:8080/api/bookmarks/10 HTTP/1.1
+Accept: application/json
+
+###
+GET http://localhost:8080/api/search/bookmarks/tags/ui HTTP/1.1
+Accept: application/json
+
+

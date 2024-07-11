@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "name": "React",
+    "url": "https://reactjs.org",
+    "thumbnail": "/images/thumbnail/reactjs_org.png",
+    "description": "React is a JavaScript library for building user interfaces. It allows developers to create large web applications that can update and render efficiently in response to data changes.",
+    "tags": "JavaScript,Library,UI,Components,Frontend",
+    "github": {
+      "url": "https://github.com/facebook/react",
+      "star": 207000,
+      "fork": 43000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/react",
+      "weeklyDownload": 15000000,
+      "version": "18.2.0",
+      "license": "MIT",
+      "lastPublish": "2023-06-22"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Vue.js",
+    "url": "https://vuejs.org",
+    "thumbnail": "/images/thumbnail/vuejs_org.png",
+    "description": "Vue.js is a progressive framework for building user interfaces. It is designed to be incrementally adoptable, focusing on the view layer only, making it easy to integrate with other libraries or existing projects.",
+    "tags": "JavaScript,Framework,UI,Components,Frontend",
+    "github": {
+      "url": "https://github.com/vuejs/vue",
+      "star": 205000,
+      "fork": 34000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/vue",
+      "weeklyDownload": 2800000,
+      "version": "3.2.37",
+      "license": "MIT",
+      "lastPublish": "2023-06-20"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Angular",
+    "url": "https://angular.io",
+    "thumbnail": "/images/thumbnail/angular_io.png",
+    "description": "Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript and provides a way to structure applications and handle data binding.",
+    "tags": "JavaScript,Framework,SPA,TypeScript,Frontend",
+    "github": {
+      "url": "https://github.com/angular/angular",
+      "star": 88000,
+      "fork": 23000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/@angular/core",
+      "weeklyDownload": 3000000,
+      "version": "13.2.3",
+      "license": "MIT",
+      "lastPublish": "2023-06-19"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Svelte",
+    "url": "https://svelte.dev",
+    "thumbnail": "/images/thumbnail/svelte_dev.png",
+    "description": "Svelte is a new approach to building user interfaces. Instead of using a virtual DOM, Svelte shifts much of the work to compile time, producing highly optimized vanilla JavaScript at build time.",
+    "tags": "JavaScript,Framework,UI,Compiler,Frontend",
+    "github": {
+      "url": "https://github.com/sveltejs/svelte",
+      "star": 68000,
+      "fork": 3400
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/svelte",
+      "weeklyDownload": 800000,
+      "version": "3.49.0",
+      "license": "MIT",
+      "lastPublish": "2023-06-18"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ember.js",
+    "url": "https://emberjs.com",
+    "thumbnail": "/images/thumbnail/emberjs_com.png",
+    "description": "Ember.js is an opinionated framework for building ambitious web applications. It provides a standard application architecture, an integrated development environment, and a strong ecosystem of tools and libraries.",
+    "tags": "JavaScript,Framework,SPA,MVC,Frontend",
+    "github": {
+      "url": "https://github.com/emberjs/ember.js",
+      "star": 22000,
+      "fork": 4500
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/ember-source",
+      "weeklyDownload": 100000,
+      "version": "3.28.5",
+      "license": "MIT",
+      "lastPublish": "2023-06-17"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Backbone.js",
+    "url": "https://backbonejs.org",
+    "thumbnail": "/images/thumbnail/backbonejs_org.png",
+    "description": "Backbone.js gives structure to web applications by providing models with key-value binding and custom events, views with declarative event handling, and collections with a rich API of enumerable functions.",
+    "tags": "JavaScript,Framework,MVC,DataBinding,Frontend",
+    "github": {
+      "url": "https://github.com/jashkenas/backbone",
+      "star": 28000,
+      "fork": 5500
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/backbone",
+      "weeklyDownload": 50000,
+      "version": "1.4.0",
+      "license": "MIT",
+      "lastPublish": "2023-06-16"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Preact",
+    "url": "https://preactjs.com",
+    "thumbnail": "/images/thumbnail/preactjs_com.png",
+    "description": "Preact is a fast 3kB alternative to React with the same modern API. It aims to provide the thinnest possible Virtual DOM abstraction on top of the DOM, allowing high performance and small size.",
+    "tags": "JavaScript,Library,UI,Components,Frontend",
+    "github": {
+      "url": "https://github.com/preactjs/preact",
+      "star": 32000,
+      "fork": 1600
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/preact",
+      "weeklyDownload": 800000,
+      "version": "10.5.13",
+      "license": "MIT",
+      "lastPublish": "2023-06-15"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Alpine.js",
+    "url": "https://alpinejs.dev",
+    "thumbnail": "/images/thumbnail/alpinejs_dev.png",
+    "description": "Alpine.js offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost. You get to keep your DOM, and sprinkle in behavior as you see fit.",
+    "tags": "JavaScript,Framework,Reactive,Declarative,Frontend",
+    "github": {
+      "url": "https://github.com/alpinejs/alpine",
+      "star": 25000,
+      "fork": 1600
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/alpinejs",
+      "weeklyDownload": 200000,
+      "version": "3.4.2",
+      "license": "MIT",
+      "lastPublish": "2023-06-14"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Lit",
+    "url": "https://lit.dev",
+    "thumbnail": "/images/thumbnail/lit_dev.png",
+    "description": "Lit is a simple library for building fast, lightweight web components. It uses lit-html to define and render HTML templates in a reactive way, enabling highly efficient updates and re-renders.",
+    "tags": "JavaScript,Library,WebComponents,Reactive,Frontend",
+    "github": {
+      "url": "https://github.com/lit/lit",
+      "star": 12000,
+      "fork": 700
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/lit",
+      "weeklyDownload": 900000,
+      "version": "2.0.0",
+      "license": "MIT",
+      "lastPublish": "2023-06-13"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Next.js",
+    "url": "https://nextjs.org",
+    "thumbnail": "/images/thumbnail/nextjs_org.png",
+    "description": "Next.js is a React framework that enables functionality such as server-side rendering and generating static websites for React-based web applications.",
+    "tags": "JavaScript,Framework,React,SSR,Frontend",
+    "github": {
+      "url": "https://github.com/vercel/next.js",
+      "star": 85000,
+      "fork": 17000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/next",
+      "weeklyDownload": 1400000,
+      "version": "12.1.6",
+      "license": "MIT",
+      "lastPublish": "2023-06-12"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Gatsby",
+    "url": "https://www.gatsbyjs.com",
+    "thumbnail": "/images/thumbnail/www_gatsbyjs_com.png",
+    "description": "Gatsby is a React-based, GraphQL powered, static site generator. It combines the best parts of React, Webpack, GraphQL, and other front-end tools into one very enjoyable developer experience.",
+    "tags": "JavaScript,Framework,React,StaticSiteGenerator,Frontend",
+    "github": {
+      "url": "https://github.com/gatsbyjs/gatsby",
+      "star": 53000,
+      "fork": 10000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/gatsby",
+      "weeklyDownload": 500000,
+      "version": "4.14.0",
+      "license": "MIT",
+      "lastPublish": "2023-06-11"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Nuxt.js",
+    "url": "https://nuxtjs.org",
+    "thumbnail": "/images/thumbnail/nuxtjs_org.png",
+    "description": "Nuxt.js is a framework based on Vue.js to create modern web applications. It offers features like server-side rendering, static site generation, and powerful configurations.",
+    "tags": "JavaScript,Framework,Vue,SSR,Frontend",
+    "github": {
+      "url": "https://github.com/nuxt/nuxt.js",
+      "star": 42000,
+      "fork": 3200
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/nuxt",
+      "weeklyDownload": 300000,
+      "version": "2.15.8",
+      "license": "MIT",
+      "lastPublish": "2023-06-10"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Tailwind CSS",
+    "url": "https://tailwindcss.com",
+    "thumbnail": "/images/thumbnail/tailwindcss_com.png",
+    "description": "Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It provides low-level utility classes that let you build completely custom designs without writing CSS.",
+    "tags": "CSS,Framework,Utility,Design,Frontend",
+    "github": {
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "star": 58000,
+      "fork": 2900
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/tailwindcss",
+      "weeklyDownload": 1200000,
+      "version": "3.0.0",
+      "license": "MIT",
+      "lastPublish": "2023-06-09"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Bootstrap",
+    "url": "https://getbootstrap.com",
+    "thumbnail": "/images/thumbnail/getbootstrap_com.png",
+    "description": "Bootstrap is a popular CSS framework for developing responsive and mobile-first websites. It includes HTML, CSS, and JavaScript components for common UI patterns.",
+    "tags": "CSS,Framework,Responsive,UI,Frontend",
+    "github": {
+      "url": "https://github.com/twbs/bootstrap",
+      "star": 160000,
+      "fork": 77000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/bootstrap",
+      "weeklyDownload": 2500000,
+      "version": "5.1.3",
+      "license": "MIT",
+      "lastPublish": "2023-06-08"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Foundation",
+    "url": "https://get.foundation",
+    "thumbnail": "/images/thumbnail/get_foundation.png",
+    "description": "Foundation is a responsive front-end framework that makes it easy to design beautiful responsive websites, apps, and emails that look amazing on any device.",
+    "tags": "CSS,Framework,Responsive,UI,Frontend",
+    "github": {
+      "url": "https://github.com/foundation/foundation-sites",
+      "star": 29000,
+      "fork": 6000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/foundation-sites",
+      "weeklyDownload": 120000,
+      "version": "6.6.3",
+      "license": "MIT",
+      "lastPublish": "2023-06-07"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Bulma",
+    "url": "https://bulma.io",
+    "thumbnail": "/images/thumbnail/bulma_io.png",
+    "description": "Bulma is a modern CSS framework based on Flexbox. It offers a simple grid system, modern responsive design features, and extensive component options.",
+    "tags": "CSS,Framework,Flexbox,Responsive,Frontend",
+    "github": {
+      "url": "https://github.com/jgthms/bulma",
+      "star": 45000,
+      "fork": 3600
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/bulma",
+      "weeklyDownload": 400000,
+      "version": "0.9.3",
+      "license": "MIT",
+      "lastPublish": "2023-06-06"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Semantic UI",
+    "url": "https://semantic-ui.com",
+    "thumbnail": "/images/thumbnail/semantic_ui_com.png",
+    "description": "Semantic UI is a development framework that helps create beautiful, responsive layouts using human-friendly HTML. It provides a comprehensive collection of UI components.",
+    "tags": "CSS,Framework,UI,Responsive,Frontend",
+    "github": {
+      "url": "https://github.com/Semantic-Org/Semantic-UI",
+      "star": 50000,
+      "fork": 5000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/semantic-ui",
+      "weeklyDownload": 90000,
+      "version": "2.4.2",
+      "license": "MIT",
+      "lastPublish": "2023-06-05"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Material-UI",
+    "url": "https://mui.com",
+    "thumbnail": "/images/thumbnail/mui_com.png",
+    "description": "Material-UI is a React component library that implements Google's Material Design. It provides a collection of React components that you can use in your React applications.",
+    "tags": "JavaScript,React,UI,MaterialDesign,Frontend",
+    "github": {
+      "url": "https://github.com/mui/material-ui",
+      "star": 80000,
+      "fork": 27000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/@mui/material",
+      "weeklyDownload": 1300000,
+      "version": "5.3.1",
+      "license": "MIT",
+      "lastPublish": "2023-06-04"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Ant Design",
+    "url": "https://ant.design",
+    "thumbnail": "/images/thumbnail/ant_design.png",
+    "description": "Ant Design is a comprehensive design system and React UI library for enterprise-level products. It offers a wide range of components, patterns, and templates.",
+    "tags": "JavaScript,React,UI,DesignSystem,Frontend",
+    "github": {
+      "url": "https://github.com/ant-design/ant-design",
+      "star": 78000,
+      "fork": 30000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/antd",
+      "weeklyDownload": 1100000,
+      "version": "4.16.13",
+      "license": "MIT",
+      "lastPublish": "2023-06-03"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Chart.js",
+    "url": "https://www.chartjs.org",
+    "thumbnail": "/images/thumbnail/www_chartjs_org.png",
+    "description": "Chart.js is a simple yet flexible JavaScript charting library for designers & developers. It allows you to create bar, line, area, pie, and other charts using the HTML5 canvas element.",
+    "tags": "JavaScript,Library,Charts,DataVisualization,Frontend",
+    "github": {
+      "url": "https://github.com/chartjs/Chart.js",
+      "star": 55000,
+      "fork": 11000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/chart.js",
+      "weeklyDownload": 1400000,
+      "version": "3.5.1",
+      "license": "MIT",
+      "lastPublish": "2023-06-02"
+    }
+  },
+  {
+    "id": 21,
+    "name": "D3.js",
+    "url": "https://d3js.org",
+    "thumbnail": "/images/thumbnail/d3js_org.png",
+    "description": "D3.js is a JavaScript library for producing dynamic, interactive data visualizations in web browsers. It uses HTML, SVG, and CSS to bring data to life.",
+    "tags": "JavaScript,Library,DataVisualization,SVG,Frontend",
+    "github": {
+      "url": "https://github.com/d3/d3",
+      "star": 102000,
+      "fork": 23000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/d3",
+      "weeklyDownload": 2100000,
+      "version": "7.0.0",
+      "license": "BSD-3-Clause",
+      "lastPublish": "2023-06-01"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Three.js",
+    "url": "https://threejs.org",
+    "thumbnail": "/images/thumbnail/threejs_org.png",
+    "description": "Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.",
+    "tags": "JavaScript,Library,3D,WebGL,Frontend",
+    "github": {
+      "url": "https://github.com/mrdoob/three.js",
+      "star": 78000,
+      "fork": 30000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/three",
+      "weeklyDownload": 1300000,
+      "version": "0.134.0",
+      "license": "MIT",
+      "lastPublish": "2023-05-31"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Lodash",
+    "url": "https://lodash.com",
+    "thumbnail": "/images/thumbnail/lodash_com.png",
+    "description": "Lodash is a modern JavaScript utility library delivering modularity, performance, and extras. It helps developers manipulate arrays, numbers, objects, strings, etc.",
+    "tags": "JavaScript,Library,Utility,Functional,Frontend",
+    "github": {
+      "url": "https://github.com/lodash/lodash",
+      "star": 54000,
+      "fork": 6600
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/lodash",
+      "weeklyDownload": 22000000,
+      "version": "4.17.21",
+      "license": "MIT",
+      "lastPublish": "2023-05-30"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Moment.js",
+    "url": "https://momentjs.com",
+    "thumbnail": "/images/thumbnail/momentjs_com.png",
+    "description": "Moment.js is a JavaScript library for parsing, validating, manipulating, and formatting dates. It allows you to work with dates and times in a flexible and easy way.",
+    "tags": "JavaScript,Library,Date,Time,Frontend",
+    "github": {
+      "url": "https://github.com/moment/moment",
+      "star": 46000,
+      "fork": 6800
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/moment",
+      "weeklyDownload": 11000000,
+      "version": "2.29.1",
+      "license": "MIT",
+      "lastPublish": "2023-05-29"
+    }
+  },
+  {
+    "id": 25,
+    "name": "RxJS",
+    "url": "https://rxjs.dev",
+    "thumbnail": "/images/thumbnail/rxjs_dev.png",
+    "description": "RxJS is a library for reactive programming using observables that makes it easier to compose asynchronous or callback-based code. It is used extensively with Angular.",
+    "tags": "JavaScript,Library,Reactive,Asynchronous,Frontend",
+    "github": {
+      "url": "https://github.com/reactivex/rxjs",
+      "star": 27000,
+      "fork": 4000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/rxjs",
+      "weeklyDownload": 5500000,
+      "version": "7.3.0",
+      "license": "Apache-2.0",
+      "lastPublish": "2023-05-28"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Redux",
+    "url": "https://redux.js.org",
+    "thumbnail": "/images/thumbnail/redux_js_org.png",
+    "description": "Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments, and are easy to test.",
+    "tags": "JavaScript,Library,StateManagement,React,Frontend",
+    "github": {
+      "url": "https://github.com/reduxjs/redux",
+      "star": 58000,
+      "fork": 15000
+    },
+    "npm": {
+      "url": "https://www.npmjs.com/package/redux",
+      "weeklyDownload": 5000000,
+      "version": "4.1.0",
+      "license": "MIT",
+      "lastPublish": "2023-05-27"
+    }
+  }
+]
